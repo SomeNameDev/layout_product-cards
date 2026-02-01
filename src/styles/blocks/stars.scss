@@ -31,13 +31,9 @@
   }
 
   &__review {
-    width: 53px;
-    height: 16px;
+    line-height: 16px;
     font-weight: 400;
     font-size: 10px;
     color: #060b35;
-    white-space: nowrap;
-    align-items: center;
-    align-self: flex-end;
   }
 }
